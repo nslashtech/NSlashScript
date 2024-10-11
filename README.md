@@ -4,7 +4,7 @@
 
 [![Shield1](https://img.shields.io/badge/Releases-0.1pb-white)](https://github.com/nslashtech/NSlashScript/releases)
 [![Shield2](https://img.shields.io/badge/Issues-white)](https://github.com/nslashtech/NSlashScript/issues)
-[![Shield3](https://img.shields.io/badge/Documentation-white)](https://github.com/nslashtech/NSlashScript)
+[![Shield3](https://img.shields.io/badge/Documentation-white)](https://n-tech.gitbook.io/n-script-docs)
 
 N/Script is a programming language based on Python. The language is aimed at programs
 
