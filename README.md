@@ -16,7 +16,7 @@ N/Script is a programming language based on Python. The language is aimed at pro
 
 # Syntax
 the syntax in n/script is based on classes and functions, for example, to write output text to the console you need to write ```console.say("")```
-where "console" is a class, "say" is a function and the value is in parentheses. Almost all code adheres to this principle except for variables. They are written in the same way as in Python.
+where "console" is a class, "say" is a function and the value is in parentheses.
 
 Read the full documentation, link attached above
 
