@@ -28,7 +28,3 @@ console.say("x")
 math(4 < 3)
 math(3 - 5)
 ```
-
-# Authors
-- Dave "SynthouS"
-- Maksim "Flow1zz"
