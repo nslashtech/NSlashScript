@@ -1,11 +1,9 @@
 # Variables
-x = 5
+var.x = 5
 
-# Console
-console.input("Enter your name: ")
-console.say("Hello, input!")
-console.say("x")
+console.input("Do you want a Joke?: ")
+console.say("Five out of six people agree that Russian Roulette is safe")
 
 # Calculate
-math(4 < 3)
-math(3 - 5)
+math(var.x < 3)
+math(3 - var.x)
