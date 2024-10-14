@@ -14,12 +14,6 @@ N/Script is a programming language based on Python. The language is aimed at pro
 - Create in ```NSScript path/Projects``` file ```main.nss```
 - Open ```Interpreter.py``` and write ```nslash1 main.nss``` for open main.nss
 
-# Syntax
-the syntax in n/script is based on classes and functions, for example, to write output text to the console you need to write ```console.say("")```
-where "console" is a class, "say" is a function and the value is in parentheses.
-
-Read the full documentation, link attached above
-
 # Programm e.g
 ```
 # Variables
