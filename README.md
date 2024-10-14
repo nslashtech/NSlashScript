@@ -12,7 +12,7 @@ N/Script is a programming language based on Python. The language is aimed at pro
 - Install Python
 - Install a repo
 - extract it in any folder
-- Create in ```NSScript path/Any folder`` file ```main.nsc```
+- Create in ```NSScript path/Any folder``` file ```main.nsc```
 - Open ```Interpreter.py``` and write ```nslash main.nsc``` for open main.nsc
 
 # Programm e.g
