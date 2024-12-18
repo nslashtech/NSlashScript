@@ -29,7 +29,3 @@ console.say("x")
 math(var.x < 3)
 math(var.x - 5)
 ```
-
-# Contributing
-
-to become a contributor you need to post bugs in the language in issues, or make language corrections on reddit with #nsscript or #n/script
